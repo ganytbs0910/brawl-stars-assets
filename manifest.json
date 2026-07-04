@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-07",
+  "lastUpdated": "2026-07-04",
   "maps": {
     "天国と地獄": "Feast_Or_Famine.png",
     "空飛ぶ絨毯": "Flying_Fantasies.png",
@@ -209,6 +209,7 @@
     "シュートチャンス": "Flute_Chutes.png",
     "断崖絶壁": "Grab_The_Moment.png",
     "ひき肉のバラッド": "A_Ballad_About_Minced_Cutlets.png",
-    "みんなのパーティー": "Party_For_You.png"
+    "みんなのパーティー": "Party_For_You.png",
+    "ゴールデンベイ": "Golden_Bay.png"
   }
 }
